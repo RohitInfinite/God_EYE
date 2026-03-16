@@ -117,5 +117,3 @@ This system can assist visually impaired users by providing real-time environmen
 # Author
 
 **Rohit Khandelwal**
-B.Sc Computer Science (AI & Emerging Technology)
-TransStadia University
