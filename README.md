@@ -8,10 +8,10 @@ The system detects objects, estimates their distance and direction, and provides
 
 ---
 # Image of GUI
-files/GOD-EYE Image.png
+![GOD-EYE GUI](GOD-EYE%20Image.png)
 ---
 # Demo Video
-files/GoD-EYE DEMO.mp4
+[Download / Watch Demo](GoD-EYE%20DEMO.mp4)
 ---
 # Features
 
