@@ -7,7 +7,12 @@
 The system detects objects, estimates their distance and direction, and provides audio feedback to guide the user safely.
 
 ---
-
+# Image of GUI
+files/GOD-EYE Image.png
+---
+# Demo Video
+files/GoD-EYE DEMO.mp4
+---
 # Features
 
 * Real-time object detection using **YOLOv8**
